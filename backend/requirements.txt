@@ -1,0 +1,7 @@
+fastapi==0.109.1
+uvicorn==0.27.0
+python-dotenv==1.0.0
+ultralytics==8.0.227
+opencv-python==4.9.0.80
+yagmail==0.15.293
+python-multipart==0.0.6
